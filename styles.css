@@ -10,7 +10,7 @@ img {
     background-repeat: no-repeat;
 }
 h1 {
-    margin-top: 50px;
+    margin-top: 45px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 75px;
     
@@ -47,7 +47,7 @@ hr {
 }
 a {
     text-decoration: none;
-    background: #78c4d4;
+    background: #19282F;
     margin-top: 20px;
     margin-bottom: 20px;
     font-family: 'Times New Roman', Times, serif;
@@ -67,7 +67,7 @@ a:hover {
     transform: translateY(-8px);
 }
 .top-container {
-    background-color:#78c4d4;
+    background-color:#19282F;
     position: relative; 
     padding-top: 100px;
     padding-bottom: 60px;
@@ -84,7 +84,7 @@ a:hover {
 }
 .bottom-container {
     text-align: center;
-    background-color:#78c4d4;
+    background-color:#19282F;
     position: relative;
     padding: 50px 0 20px;
 
@@ -107,7 +107,7 @@ a:hover {
     position:relative;
 }
 .serge__img {
-    border-radius: 50%;
+    border-radius: 3%;
     transform: scale(1);
     transition: all .5s ease;
     
